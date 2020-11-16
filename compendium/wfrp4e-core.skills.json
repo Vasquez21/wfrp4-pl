@@ -1,10 +1,605 @@
 {
-	"label": "Skills",
+	"label": "Umiejętności",
 	"entries": [
 		{
 			"id": "Athletics",
-			"name": "Atletyka",
-			"description": "<p><strong>属性：</strong>どれでも。</p>\n<p><strong>ヒット・ダイス：</strong>d6。</p>\n<h2><span id=\"Class_Skills\">クラス技能</span></h2>\n<p>アデプトのクラス技能は以下の通り：〈製作〉【知】、〈動物使い〉【魅】、〈治療〉【判】、〈知識：どれでも、別々の技能として修得すること〉【知】、〈職能〉【判】、〈呪文学〉【知】、〈生存〉【判】 。</p>\n<p><strong>レベル毎の技能ランク：</strong>2＋【知力】修正値。</p>"
+			"name": "Atletyka"
+		},
+		{
+			"id": "Animal Care",
+			"name": "Opieka nad zwierzętami"
+		},
+		{
+			"id": "Animal Training ( )",
+			"name": "Tresura ( )"
+		},
+		{
+			"id": "Animal Training (Demigryph)",
+			"name": "Tresura (Półgryfy)"
+		},
+		{
+			"id": "Animal Training (Dog)",
+			"name": "Tresura (Psy)"
+		},
+		{
+			"id": "Animal Training (Horse)",
+			"name": "Tresura (Konie)"
+		},
+		{
+			"id": "Animal Training (Pegasus)",
+			"name": "Tresura (Pegazy)"
+		},
+		{
+			"id": "Animal Training (Pigeon)",
+			"name": "Tresura (Gołębie)"
+		},
+		{
+			"id": "Art ( )",
+			"name": "Sztuka ( )"
+		},
+		{
+			"id": "Art (Cartogrpahy)",
+			"name": "Sztuka (Kartografia)"
+		},
+		{
+			"id": "Art (Engraving)",
+			"name": "Sztuka (Grawerstwo)"
+		},
+		{
+			"id": "Art (Mosaics)",
+			"name": "Sztuka (Układanie Mozaiki)"
+		},
+		{
+			"id": "Art (Painting)",
+			"name": "Sztuka (Malarstwo)"
+		},
+		{
+			"id": "Art (Sculpture)",
+			"name": "Sztuka (Rzeźbiarstwo)"
+		},
+		{
+			"id": "Art (Tattoo)",
+			"name": "Sztuka (Tatuowanie)"
+		},
+		{
+			"id": "Art (Weaving)",
+			"name": "Sztuka (Tkactwo)"
+		},
+		{
+			"id": "Bribery",
+			"name": "Przekupstwo"
+		},
+		{
+			"id": "Channelling ()",
+			"name": "Splatanie Magii ()"
+		},
+		{
+			"id": "Channelling (Aqshy)",
+			"name": "Splatanie Magii (Aqshy)"
+		},
+		{
+			"id": "Channelling (Azyr)",
+			"name": "Splatanie Magii (Azyr)"
+		},
+		{
+			"id": "Channelling (Chamon)",
+			"name": "Splatanie Magii (Chamon)"
+		},
+		{
+			"id": "Channelling (Dhar)",
+			"name": "Splatanie Magii (Dhar)"
+		},
+		{
+			"id": "Channelling (Ghur)",
+			"name": "Splatanie Magii (Ghur)"
+		},
+		{
+			"id": "Channelling (Ghyran)",
+			"name": "Splatanie Magii (Ghyran)"
+		},
+		{
+			"id": "Channelling (Hysh)",
+			"name": "Splatanie Magii (Hysh)"
+		},
+		{
+			"id": "Channelling (Shyish)",
+			"name": "Splatanie Magii (Shyish)"
+		},
+		{
+			"id": "Channelling (Ulgu)",
+			"name": "Splatanie Magii (Ulgu)"
+		},
+		{
+			"id": "Charm",
+			"name": "Charyzma"
+		},
+		{
+			"id": "Charm Animal",
+			"name": "Oswajanie"
+		},
+		{
+			"id": "Climb",
+			"name": "Wspinaczka"
+		},
+		{
+			"id": "Consume Alcohol",
+			"name": "Mocna Głowa"
+		},
+		{
+			"id": "Cool",
+			"name": "Opanowanie"
+		},
+		{
+			"id": "Dodge",
+			"name": "Unik"
+		},
+		{
+			"id": "Drive",
+			"name": "Powożenie"
+		},
+		{
+			"id": "Endurance",
+			"name": "Odporność"
+		},
+		{
+			"id": "Entertain ()",
+			"name": "Występy"
+		},
+		{
+			"id": "Entertain (Comedy)",
+			"name": "Występy (Komedianctwo)"
+		},
+		{
+			"id": "Entertain (Singing)",
+			"name": "Występy (Śpiewanie)"
+		},
+		{
+			"id": "Entertain (Storytelling)",
+			"name": "Występy (Gawędziarstwo)"
+		},
+		{
+			"id": "Evaluate",
+			"name": "Wycena"
+		},
+		{
+			"id": "Gamble",
+			"name": "Hazard"
+		},
+		{
+			"id": "Gossip",
+			"name": "Plotkowanie"
+		},
+		{
+			"id": "Haggle",
+			"name": "Targowanie"
+		},
+		{
+			"id": "Heal",
+			"name": "Leczenie"
+		},
+		{
+			"id": "Intimidate",
+			"name": "Zastraszanie"
+		},
+		{
+			"id": "Intuition",
+			"name": "Intuicja"
+		},
+		{
+			"id": "Language ()",
+			"name": "Język ()"
+		},
+		{
+			"id": "Language (Albion)",
+			"name": "Język (Albioński)"
+		},
+		{
+			"id": "Language (Battle Tongue)",
+			"name": "Język (Bitewny)"
+		},
+		{
+			"id": "Language (Bretonnian)",
+			"name": "Język (Bretoński)"
+		},
+		{
+			"id": "Language (Classical)",
+			"name": "Język (Klasyczny)"
+		},
+		{
+			"id": "Language (Elthárin)",
+			"name": "Język (Elharin)"
+		},
+		{
+			"id": "Language (Estalian)",
+			"name": "Język (Estalijski)"
+		},
+		{
+			"id": "Language (Gospodarinyi)",
+			"name": "Język (Hospodarnyj)"
+		},
+		{
+			"id": "Language (Grumbarth)",
+			"name": "Język (Grumbarth)"
+		},
+		{
+			"id": "Language (Khazalid)",
+			"name": "Język (Khazalid)"
+		},
+		{
+			"id": "Language (Magick)",
+			"name": "Język (Magiczny)"
+		},
+		{
+			"id": "Language (Mootish)",
+			"name": "Język (Krainy Zgromadzenia)"
+		},
+		{
+			"id": "Language (Norse)",
+			"name": "Język (Norsmeński)"
+		},
+		{
+			"id": "Language (Queekish)",
+			"name": "Język (Queekish)"
+		},
+		{
+			"id": "Language (Reikspiel)",
+			"name": "Język (Reikspiel)"
+		},
+		{
+			"id": "Language (Thieves Tongue)",
+			"name": "Język (Złodziejska grypsera)"
+		},
+		{
+			"id": "Language (Tilean)",
+			"name": "Język (Tileański)"
+		},
+		{
+			"id": "Language (Wastelander)",
+			"name": "Język (Jałowej Krainy)"
+		},
+		{
+			"id": "Leadership",
+			"name": "Dowodzenie"
+		},
+		{
+			"id": "Lore ()",
+			"name": "Wiedza ()"
+		},
+		{
+			"id": "Lore (Engineering)",
+			"name": "Wiedza (Inżynieria)"
+		},
+		{
+			"id": "Lore (Geology)",
+			"name": "Wiedza (Geologia)"
+		},
+		{
+			"id": "Lore (Heraldry)",
+			"name": "Wiedza (Heraldyka)"
+		},
+		{
+			"id": "Lore (History)",
+			"name": "Wiedza (Historia)"
+		},
+		{
+			"id": "Lore (Law)",
+			"name": "Wiedza (Prawo)"
+		},
+		{
+			"id": "Lore (Magick)",
+			"name": "Wiedza (Magia)"
+		},
+		{
+			"id": "Lore (Metallurgy)",
+			"name": "Wiedza (Metalurgia)"
+		},
+		{
+			"id": "Lore (Science)",
+			"name": "Wiedza (Nauka)"
+		},
+		{
+			"id": "Lore (Theology)",
+			"name": "Wiedza (Teologia)"
+		},
+		{
+			"id": "Melee ()",
+			"name": "Broń biała ()"
+		},
+		{
+			"id": "Melee (Basic)",
+			"name": "Broń biała (Podstawowa)"
+		},
+		{
+			"id": "Melee (Brawling)",
+			"name": "Broń biała (Bijatyka)"
+		},
+		{
+			"id": "Melee (Cavalry)",
+			"name": "Broń biała (Kawaleryjska)"
+		},
+		{
+			"id": "Melee (Fencing)",
+			"name": "Broń biała (Szermiercza)"
+		},
+		{
+			"id": "Melee (Flail)",
+			"name": "Broń biała (Korbacze)"
+		},
+		{
+			"id": "Melee (Parry)",
+			"name": "Broń biała (Parująca)"
+		},
+		{
+			"id": "Melee (Polearm)",
+			"name": "Broń biała (Drzewcowa)"
+		},
+		{
+			"id": "Melee (Two-Handed)",
+			"name": "Broń biała (Dwuręczna)"
+		},
+		{
+			"id": "Navigation",
+			"name": "Nawigacja"
+		},
+		{
+			"id": "Outdoor Survival",
+			"name": "Sztuka przetrwania"
+		},
+		{
+			"id": "Perception",
+			"name": "Percepcja"
+		},
+		{
+			"id": "Perform ()",
+			"name": "Kuglarstwo ()"
+		},
+		{
+			"id": "Perform (Acrobatics)",
+			"name": "Kuglarstwo (Akrobatyka)"
+		},
+		{
+			"id": "Perform (Clowning)",
+			"name": "Kuglarstwo (Komedianctwo)"
+		},
+		{
+			"id": "Perform (Dancing)",
+			"name": "Kuglarstwo (Taniec)"
+		},
+		{
+			"id": "Perform (Firebreathing)",
+			"name": "Kuglarstwo (Połykanie Ognia)"
+		},
+		{
+			"id": "Perform (Juggling)",
+			"name": "Kuglarstwo (Żonglowanie)"
+		},
+		{
+			"id": "Perform (Miming)",
+			"name": "Kuglarstwo (Mimika)"
+		},
+		{
+			"id": "Perform (Rope Walking)",
+			"name": "Kuglarstwo (Chodzenie po Linie)"
+		},
+		{
+			"id": "Pick Lock",
+			"name": "Otwieranie Zamków"
+		},
+		{
+			"id": "Play ()",
+			"name": "Muzyka ()"
+		},
+		{
+			"id": "Play (Bagpipe)",
+			"name": "Muzyka (Dudy)"
+		},
+		{
+			"id": "Play (Harpsichord)",
+			"name": "Muzyka (Harfa)"
+		},
+		{
+			"id": "Play (Horn)",
+			"name": "Muzyka (Obój)"
+		},
+		{
+			"id": "Play (Lute)",
+			"name": "Muzyka (Lutnia)"
+		},
+		{
+			"id": "Play (Violin)",
+			"name": "Muzyka (Skrzypce)"
+		},
+		{
+			"id": "Pray",
+			"name": "Modlitwa"
+		},
+		{
+			"id": "Ranged ()",
+			"name": "Broń Zasięgowa ()"
+		},
+		{
+			"id": "Ranged (Blackpowder)",
+			"name": "Broń Zasięgowa (Broń Prochowa)"
+		},
+		{
+			"id": "Ranged (Bow)",
+			"name": "Broń Zasięgowa (Łuki)"
+		},
+		{
+			"id": "Ranged (Crossbow)",
+			"name": "Broń Zasięgowa (Kusze)"
+		},
+		{
+			"id": "Ranged (Engineering)",
+			"name": "Broń Zasięgowa (Broń eksperymentalna)"
+		},
+		{
+			"id": "Ranged (Entangling)",
+			"name": "Broń Zasięgowa (Broń oplątująca)"
+		},
+		{
+			"id": "Ranged (Explosives)",
+			"name": "Broń Zasięgowa (Materiały wybuchowe)"
+		},
+		{
+			"id": "Ranged (Sling)",
+			"name": "Broń Zasięgowa (Proce)"
+		},
+		{
+			"id": "Ranged (Throwing)",
+			"name": "Broń Zasięgowa (Broń miotana)"
+		},
+		{
+			"id": "Research",
+			"name": "Badania Naukowe"
+		},
+		{
+			"id": "Ride ()",
+			"name": "Jeździectwo ()"
+		},
+		{
+			"id": "Ride (Demigryph)",
+			"name": "Jeździectwo (Półgryfy)"
+		},
+		{
+			"id": "Ride (Great Wolf)",
+			"name": "Jeździectwo (Wielkie Wilki)"
+		},
+		{
+			"id": "Ride (Griffon)",
+			"name": "Jeździectwo (Gryfy)"
+		},
+		{
+			"id": "Ride (Horse)",
+			"name": "Jeździectwo (Konie)"
+		},
+		{
+			"id": "Ride (Pegasus)",
+			"name": "Jeździectwo (Pegazy)"
+		},
+		{
+			"id": "Row",
+			"name": "Wioślarstwo"
+		},
+		{
+			"id": "Sail ()",
+			"name": "Żeglarstwo ()"
+		},
+		{
+			"id": "Sail (Barge)",
+			"name": "Żeglarstwo (Barki)"
+		},
+		{
+			"id": "Sail (Caravel)",
+			"name": "Żeglarstwo (Karawele)"
+		},
+		{
+			"id": "Sail (Cog)",
+			"name": "Żeglarstwo (Kogi)"
+		},
+		{
+			"id": "Sail (Frigate)",
+			"name": "Żeglarstwo (Fregaty)"
+		},
+		{
+			"id": "Sail (Wolfship)",
+			"name": "Żeglarstwo (Wilcze Statki)"
+		},
+		{
+			"id": "Secret Signs ()",
+			"name": "Sekretne Znaki ()"
+		},
+		{
+			"id": "Secret Signs (Grey Order)",
+			"name": "Sekretne Znaki (Kolegium Cienia)"
+		},
+		{
+			"id": "Secret Signs (Guilder)",
+			"name": "Sekretne Znaki (Gildii - wybranej)"
+		},
+		{
+			"id": "Secret Signs (Ranger)",
+			"name": "Sekretne Znaki (Łowców)"
+		},
+		{
+			"id": "Secret Signs (Scout)",
+			"name": "Sekretne Znaki (Zwiadowców)"
+		},
+		{
+			"id": "Secret Signs (Thief)",
+			"name": "Sekretne Znaki (Złodziei)"
+		},
+		{
+			"id": "Secret Signs (Vagabond)",
+			"name": "Sekretne Znaki (Włóczęgów)"
+		},
+		{
+			"id": "Set Trap",
+			"name": "Zastawianie pułapek"
+		},
+		{
+			"id": "Sleight of Hand",
+			"name": "Zwinne Palce"
+		},
+		{
+			"id": "Stealth ()",
+			"name": "Skradanie ()"
+		},
+		{
+			"id": "Stealth (Rural)",
+			"name": "Skradanie (Wieś)"
+		},
+		{
+			"id": "Stealth (Underground)",
+			"name": "Skradanie (Podziemia)"
+		},
+		{
+			"id": "Stealth (Urban)",
+			"name": "Skradanie (Miasto)"
+		},
+		{
+			"id": "Swim",
+			"name": "Pływanie"
+		},
+		{
+			"id": "Track",
+			"name": "Tropienie"
+		},
+		{
+			"id": "Trade ()",
+			"name": "Rzemiosło ()"
+		},
+		{
+			"id": "Trade (Apothecary)",
+			"name": "Rzemiosło (Aptekarstwo)"
+		},
+		{
+			"id": "Trade (Calligrapher)",
+			"name": "Rzemiosło (Kaligrafia)"
+		},
+		{
+			"id": "Trade (Carpenter)",
+			"name": "Rzemiosło (Obróbka drewna)"
+		},
+		{
+			"id": "Trade (Chandler)",
+			"name": "Rzemiosło (Świecarstwo)"
+		},
+		{
+			"id": "Trade (Cook)",
+			"name": "Rzemiosło (Gotowanie)"
+		},
+		{
+			"id": "Trade (Embalmber)",
+			"name": "Rzemiosło (Balsamowanie)"
+		},
+		{
+			"id": "Trade (Smith)",
+			"name": "Rzemiosło (Kowalstwo)"
+		},
+		{
+			"id": "Trade (Tanner)",
+			"name": "Rzemiosło (Garbarstwo)"
 		}
 	]
 }
