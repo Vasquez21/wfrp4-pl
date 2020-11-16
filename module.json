@@ -15,9 +15,9 @@
 	"scripts": ["register-babele.js"],
   "styles" : [],
   "packs": [],
-	"url" : "https://github.com/BrotherSharper/wfrp4-pl",
-	"download" : "https://github.com/BrotherSharper/wfrp4-pl/archive/master.zip",
-	"manifest" : "https://raw.githubusercontent.com/BrotherSharper/wfrp4-pl/master/module.json",
+	"url" : "https://github.com/Vasquez21/wfrp4-pl",
+	"download" : "https://github.com/Vasquez21/wfrp4-pl/archive/master.zip",
+	"manifest" : "https://raw.githubusercontent.com/Vasquez21/wfrp4-pl/master/module.json",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "0.6.4"
 }
