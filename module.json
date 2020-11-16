@@ -1,0 +1,23 @@
+{
+	"name": "wfrp4-pl",
+	"title": "Polish translation for WFRP4",
+	"description": "Add Polish translation to WFRP4 system for FoundryVTT.",
+	"version": "0.1.0",
+	"author": "Vasquez21",
+	"languages": [
+		{
+			"lang": "pl",
+			"system":"wfrp4",
+			"name": "Polish",
+			"path": "lang/pl.json"
+		}
+	],
+	"scripts": ["register-babele.js"],
+  "styles" : [],
+  "packs": [],
+	"url" : "https://github.com/BrotherSharper/wfrp4-pl",
+	"download" : "https://github.com/BrotherSharper/wfrp4-pl/archive/master.zip",
+	"manifest" : "https://raw.githubusercontent.com/BrotherSharper/wfrp4-pl/master/module.json",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "0.6.4"
+}
