@@ -1,0 +1,677 @@
+{
+	"label": "Talenty",
+	"entries": [
+		{
+			"id": "Accurate Shot",
+			"name": "Celny strzał"
+		},
+		{
+			"id": "Acute Sense",
+			"name": "Wyczulony Zmysł"
+		},
+		{
+			"id": "Aethyric Attunement",
+			"name": "Precyzyjne Inkantowanie"
+		},
+		{
+			"id": "Alley Cat",
+			"name": "Ulicznik"
+		},
+		{
+			"id": "Ambidextrous",
+			"name": "Oburęczność"
+		},
+		{
+			"id": "Animal Affinity",
+			"name": "Posłuch u Zwierząt"
+		},
+		{
+			"id": "Arcane Magic",
+			"name": "Magia Tajemna ()"
+		},
+		{
+			"id": "Argumentative",
+			"name": "Przekonujący"
+		},
+		{
+			"id": "Artistic",
+			"name": "Talent Artystyczny"
+		},
+		{
+			"id": "Attractive",
+			"name": "Atrakcyjny"
+		},
+		{
+			"id": "Battle Rage",
+			"name": "Bitewna Furia"
+		},
+		{
+			"id": "Beat Blade",
+			"name": "Zbicie Broni"
+		},
+		{
+			"id": "Beneath Notice",
+			"name": "Niegodny Uwagi"
+		},
+		{
+			"id": "Berserk Charge",
+			"name": "Berserkerska Szarża"
+		},
+		{
+			"id": "Blather",
+			"name": "Gadanina"
+		},
+		{
+			"id": "Bless",
+			"name": "Błogosławieństwo ()"
+		},
+		{
+			"id": "Bookish",
+			"name": "Mól Książkowy"
+		},
+		{
+			"id": "Break and Enter",
+			"name": "Wtargnięcie z Włamaniem"
+		},
+		{
+			"id": "Briber",
+			"name": "Łapówkarz"
+		},
+		{
+			"id": "Cat-tongued",
+			"name": "Gładkie Słówka"
+		},
+		{
+			"id": "Cardsharp",
+			"name": "Szuler"
+		},
+		{
+			"id": "Carouser",
+			"name": "Hulaka"
+		},
+		{
+			"id": "Catfall",
+			"name": "Na Cztery Łapy"
+		},
+		{
+			"id": "Careful Strike",
+			"name": "Cios Mierzony"
+		},
+		{
+			"id": "Chaos Magic",
+			"name": "Magia Chaosu ()"
+		},
+		{
+			"id": "Combat Aware",
+			"name": "Zmysł Bitewny"
+		},
+		{
+			"id": "Combat Master",
+			"name": "Mistrz Walki"
+		},
+		{
+			"id": "Combat Reflexes",
+			"name": "Bitewny Refleks"
+		},
+		{
+			"id": "Commanding Presence",
+			"name": "Władcza Postura"
+		},
+		{
+			"id": "Concoct",
+			"name": "Przyrządzanie Mikstur"
+		},
+		{
+			"id": "Contortionist",
+			"name": "Człowiek Guma"
+		},
+		{
+			"id": "Coolheaded",
+			"name": "Zimna Krew"
+		},
+		{
+			"id": "Crack the Whip",
+			"name": "Z Bata"
+		},
+		{
+			"id": "Craftsman",
+			"name": "Wytwórca"
+		},
+		{
+			"id": "Criminal",
+			"name": "Przestępca"
+		},
+		{
+			"id": "Deadeye Shot",
+			"name": "Prosto Między Oczy"
+		},
+		{
+			"id": "Dealmaker",
+			"name": "Żyłka Handlowa"
+		},
+		{
+			"id": "Detect Artifact",
+			"name": "Rozpoznanie Artefaktu"
+		},
+		{
+			"id": "Dirty Fighting",
+			"name": "Cios Poniżej Pasa"
+		},
+		{
+			"id": "Diceman",
+			"name": "Szuler Kościany"
+		},
+		{
+			"id": "Disarm",
+			"name": "Rozbrojenie"
+		},
+		{
+			"id": "Distract",
+			"name": "Rozproszenie Uwagi"
+		},
+		{
+			"id": "Doomed",
+			"name": "Wróżba Losu"
+		},
+		{
+			"id": "Drilled",
+			"name": "Musztra"
+		},
+		{
+			"id": "Dual Wielder",
+			"name": "Dwie Bronie"
+		},
+		{
+			"id": "Embezzle",
+			"name": "Defraudant"
+		},
+		{
+			"id": "Enclosed Fighter",
+			"name": "Walka w Ciasnocie"
+		},
+		{
+			"id": "Etiquette",
+			"name": "Etykieta ()"
+		},
+		{
+			"id": "Fast Hands",
+			"name": "Ruchliwe dłonie"
+		},
+		{
+			"id": "Fast Shot",
+			"name": "Błyskawiczny Strzał"
+		},
+		{
+			"id": "Fearless",
+			"name": "Nieustraszony ()"
+		},
+		{
+			"id": "Feint",
+			"name": "Finta"
+		},
+		{
+			"id": "Field Dressing",
+			"name": "Pierwsza Pomoc"
+		},
+		{
+			"id": "Fisherman",
+			"name": "Rybak"
+		},
+		{
+			"id": "Flagellant",
+			"name": "Biczownik"
+		},
+		{
+			"id": "Flee!",
+			"name": "Chodu!"
+		},
+		{
+			"id": "Fleet Footed",
+			"name": "Bardzo Szybki"
+		},
+		{
+			"id": "Frenzy",
+			"name": "Szał Bojowy"
+		},
+		{
+			"id": "Frightening",
+			"name": "Groźny"
+		},
+		{
+			"id": "Furious Assault",
+			"name": "Wściekły Atak"
+		},
+		{
+			"id": "Gregarious",
+			"name": "Towarzyski"
+		},
+		{
+			"id": "Gunner",
+			"name": "Artylerzysta"
+		},
+		{
+			"id": "Hardy",
+			"name": "Twardziel"
+		},
+		{
+			"id": "Hatred",
+			"name": "Nienawiść ()"
+		},
+		{
+			"id": "Holy Hatred",
+			"name": "Święta Nienawiść"
+		},
+		{
+			"id": "Holy Visions",
+			"name": "Święte Wizje"
+		},
+		{
+			"id": "Hunter's Eye",
+			"name": "Oko Łowcy"
+		},
+		{
+			"id": "Impassioned Zeal",
+			"name": "Porywająca Gorliwość"
+		},
+		{
+			"id": "Implacable",
+			"name": "Nieubłagany"
+		},
+		{
+			"id": "In-fighter",
+			"name": "Skrócenie Dystansu"
+		},
+		{
+			"id": "Inspiring",
+			"name": "Inspirujący"
+		},
+		{
+			"id": "Instinctive Diction",
+			"name": "Precyzyjne Inkantowanie"
+		},
+		{
+			"id": "Invoke",
+			"name": "Inwokacja ()"
+		},
+		{
+			"id": "Iron Jaw",
+			"name": "Żelazna Szczęka"
+		},
+		{
+			"id": "Iron Will",
+			"name": "Żelazna Wola"
+		},
+		{
+			"id": "Jump Up",
+			"name": "Sprężynka"
+		},
+		{
+			"id": "Kingpin",
+			"name": "Szycha"
+		},
+		{
+			"id": "Lightning Reflexes",
+			"name": "Szybki Refleks"
+		},
+		{
+			"id": "Linguistics",
+			"name": "Poliglota"
+		},
+		{
+			"id": "Lip Reading",
+			"name": "Czytanie z Ruchu Warg"
+		},
+		{
+			"id": "Luck",
+			"name": "Szczęście"
+		},
+		{
+			"id": "Magical Sense",
+			"name": "Wykrywanie Magii"
+		},
+		{
+			"id": "Magic Resistance",
+			"name": "Odporność na Magię"
+		},
+		{
+			"id": "Magnum Opus",
+			"name": "Arcydzieło"
+		},
+		{
+			"id": "Marksman",
+			"name": "Strzelec Wyborowy"
+		},
+		{
+			"id": "Master of Disguise",
+			"name": "Mistrz Charakteryzacji"
+		},
+		{
+			"id": "Master Orator",
+			"name": "Krasomówstwo"
+		},
+		{
+			"id": "Master Tradesman",
+			"name": "Mistrz Rzemiosła ()"
+		},
+		{
+			"id": "Menacing",
+			"name": "Groźny"
+		},
+		{
+			"id": "Mimic",
+			"name": "Naśladowca"
+		},
+		{
+			"id": "Night Vision",
+			"name": "Widzenie w Ciemności"
+		},
+		{
+			"id": "Nimble Fingered",
+			"name": "Zręczny"
+		},
+		{
+			"id": "Noble Blood",
+			"name": "Błękitna krew"
+		},
+		{
+			"id": "Nose for Trouble",
+			"name": "Nos do Kłopotów"
+		},
+		{
+			"id": "Numismatics",
+			"name": "Numizmatyka"
+		},
+		{
+			"id": "Orientation",
+			"name": "Wyczucie Kierunku"
+		},
+		{
+			"id": "Old Salt",
+			"name": "Wilk Morski"
+		},
+		{
+			"id": "Panhandle",
+			"name": "Naciągacz"
+		},
+		{
+			"id": "Pharmacist",
+			"name": "Aptekarz"
+		},
+		{
+			"id": "Petty Magic",
+			"name": "Magia Prosta"
+		},
+		{
+			"id": "Perfect Pitch",
+			"name": "Słuch Absolutny"
+		},
+		{
+			"id": "Pilot",
+			"name": "Pilot"
+		},
+		{
+			"id": "Public Speaker",
+			"name": "Mówca"
+		},
+		{
+			"id": "Pure Soul",
+			"name": "Czysta Dusza"
+		},
+		{
+			"id": "Rapid Reload",
+			"name": "Szybkie Przeładowanie"
+		},
+		{
+			"id": "Reaction Strike",
+			"name": "Atak Wyprzedzający"
+		},
+		{
+			"id": "Read/Write",
+			"name": "Czytanie/Pisanie"
+		},
+		{
+			"id": "Relentless",
+			"name": "Nieustępliwy"
+		},
+		{
+			"id": "Resistance",
+			"name": "Odporny na ()"
+		},
+		{
+			"id": "Resolute",
+			"name": "Nieugięty"
+		},
+		{
+			"id": "Reversal",
+			"name": "Odwrócenie Szans"
+		},
+		{
+			"id": "Riposte",
+			"name": "Riposta"
+		},
+		{
+			"id": "River Guide",
+			"name": "Pilot Rzeczny"
+		},
+		{
+			"id": "Robust",
+			"name": "Krzepki"
+		},
+		{
+			"id": "Roughrider",
+			"name": "Urodzony w Siodle"
+		},
+		{
+			"id": "Rover",
+			"name": "Włóczykij"
+		},
+		{
+			"id": "Savant",
+			"name": "Znawca ()"
+		},
+		{
+			"id": "Savvy",
+			"name": "Błyskotliwość"
+		},
+		{
+			"id": "Scale Sheer Surface",
+			"name": "Wyborny Wspinacz"
+		},
+		{
+			"id": "Schemer",
+			"name": "Intrygant"
+		},
+		{
+			"id": "Sea Legs",
+			"name": "Urodzony Żeglarz"
+		},
+		{
+			"id": "Seasoned Traveller",
+			"name": "Obieżyświat"
+		},
+		{
+			"id": "Second Sight",
+			"name": "Percepcja Magiczna"
+		},
+		{
+			"id": "Secret Identity",
+			"name": "Sekretna Tożsamość"
+		},
+		{
+			"id": "Shadow",
+			"name": "Cień"
+		},
+		{
+			"id": "Sharp",
+			"name": "Czujny"
+		},
+		{
+			"id": "Sharpshooter",
+			"name": "Strzał w Dziesiątkę"
+		},
+		{
+			"id": "Shieldsman",
+			"name": "Tarczownik"
+		},
+		{
+			"id": "Sixth Sense",
+			"name": "Szósty Zmysł"
+		},
+		{
+			"id": "Slayer",
+			"name": "Zabójca"
+		},
+		{
+			"id": "Small",
+			"name": "Mały"
+		},
+		{
+			"id": "Sniper",
+			"name": "Snajper"
+		},
+		{
+			"id": "Speedreader",
+			"name": "Szybkie Czytanie"
+		},
+		{
+			"id": "Step Aside",
+			"name": "Zejście z Linii"
+		},
+		{
+			"id": "Stone Soup",
+			"name": "Wstrzemięźliwy"
+		},
+		{
+			"id": "Stout-hearted",
+			"name": "Waleczne Serce"
+		},
+		{
+			"id": "Strider",
+			"name": "Doświadczony Wędrowiec ()"
+		},
+		{
+			"id": "Strike Mighty Blow",
+			"name": "Silny Cios"
+		},
+		{
+			"id": "Strike to Injure",
+			"name": "Morderczy Atak"
+		},
+		{
+			"id": "Strike to Stun",
+			"name": "Ogłuszenie"
+		},
+		{
+			"id": "Strong Back",
+			"name": "Mocne Plecy"
+		},
+		{
+			"id": "Strong Legs",
+			"name": "Silne Nogi"
+		},
+		{
+			"id": "Strong Swimmer",
+			"name": "Świetny Pływak"
+		},
+		{
+			"id": "Strong-minded",
+			"name": "Odporność Psychiczna"
+		},
+		{
+			"id": "Sturdy",
+			"name": "Tragarz"
+		},
+		{
+			"id": "Suave",
+			"name": "Charyzmatyczny"
+		},
+		{
+			"id": "Super Numerate",
+			"name": "Geniusz Arytmetyczny"
+		},
+		{
+			"id": "Supportive",
+			"name": "Pomocny"
+		},
+		{
+			"id": "Surgery",
+			"name": "Chirurgia"
+		},
+		{
+			"id": "Sure Shot",
+			"name": "Strzał Przebijający"
+		},
+		{
+			"id": "Tenacious",
+			"name": "Wytrwały"
+		},
+		{
+			"id": "Tinker",
+			"name": "Złota Rączka"
+		},
+		{
+			"id": "Tower of Memories",
+			"name": "Wieża Pamięci"
+		},
+		{
+			"id": "Trapper",
+			"name": "Traper"
+		},
+		{
+			"id": "Trick Riding",
+			"name": "Woltyżerka"
+		},
+		{
+			"id": "Tunnel Rat",
+			"name": "Szczur Tunelowy"
+		},
+		{
+			"id": "Unshakable",
+			"name": "Niewzruszony"
+		},
+		{
+			"id": "Very Strong",
+			"name": "Bardzo Silny"
+		},
+		{
+			"id": "Very Resilient",
+			"name": "Niezwykle Odporny"
+		},
+		{
+			"id": "War Leader",
+			"name": "Wódz"
+		},
+		{
+			"id": "War Wizard",
+			"name": "Mag Bitewny"
+		},
+		{
+			"id": "Warrior Born",
+			"name": "Urodzony Wojownik"
+		},
+		{
+			"id": "Waterman",
+			"name": "Wodniak"
+		},
+		{
+			"id": "Wealthy",
+			"name": "Majętny"
+		},
+		{
+			"id": "Well-prepared",
+			"name": "Dobrze Przygotowany"
+		},
+		{
+			"id": "Witch!",
+			"name": "Czarownica!"
+		},
+		{
+			"id": "",
+			"name": "Straszny"
+		},
+		{
+			"id": "",
+			"name": "Szybkobiegacz"
+		}
+	]
+}
