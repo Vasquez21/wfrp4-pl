@@ -1,0 +1,329 @@
+{
+	"label": "Cechy Stworzeń",
+	"entries": [
+		{
+			"id": "# Tentacles",
+			"name": "Macki (ile)"
+		},
+		{
+			"id": "Afraid",
+			"name": "Lęk (obiekt)"
+		},
+		{
+			"id": "Amphibious",
+			"name": "Ziemnowodny"
+		},
+		{
+			"id": "Animosity",
+			"name": "Wrogość (kto)"
+		},
+		{
+			"id": "Arboreal",
+			"name": "Mieszkaniec Lasu"
+		},
+		{
+			"id": "Armour",
+			"name": "Pancerz (wartość)"
+		},
+		{
+			"id": "Belligerent",
+			"name": "Wojowniczy"
+		},
+		{
+			"id": "Bestial",
+			"name": "Zwierzęcy"
+		},
+		{
+			"id": "Big",
+			"name": "Duży"
+		},
+		{
+			"id": "Bite",
+			"name": "Ugryzienie +Obrażenia"
+		},
+		{
+			"id": "Blessed",
+			"name": "Błogosławiony (różne)"
+		},
+		{
+			"id": "Bounce",
+			"name": "Skoczny"
+		},
+		{
+			"id": "Breath",
+			"name": "Zionięcie +Obrażenia (typ)"
+		},
+		{
+			"id": "Brute",
+			"name": "Siłacz"
+		},
+		{
+			"id": "Champion",
+			"name": "Czempion"
+		},
+		{
+			"id": "Chill Grasp",
+			"name": "Lodowaty Uścisk"
+		},
+		{
+			"id": "Clever",
+			"name": "Sprytny"
+		},
+		{
+			"id": "Cold Blooded",
+			"name": "Zimnokrwisty"
+		},
+		{
+			"id": "Constrictor",
+			"name": "Dusiciel"
+		},
+		{
+			"id": "Construct",
+			"name": "Konstrukt"
+		},
+		{
+			"id": "Corrosive Blood",
+			"name": "Kwasowa Krew"
+		},
+		{
+			"id": "Corruption",
+			"name": "Spaczenie (siła)"
+		},
+		{
+			"id": "Cunning",
+			"name": "Przebiegły"
+		},
+		{
+			"id": "Daemonic",
+			"name": "Demoniczny (Próg)"
+		},
+		{
+			"id": "Dark Vision",
+			"name": "Widzenie w Mroku"
+		},
+		{
+			"id": "Die Hard",
+			"name": "Nie do Zdarcia"
+		},
+		{
+			"id": "Disease",
+			"name": "Choroba (Typ)"
+		},
+		{
+			"id": "Distracting",
+			"name": "Dekoncentrujący"
+		},
+		{
+			"id": "Elite",
+			"name": "Elita"
+		},
+		{
+			"id": "Ethereal",
+			"name": "Eteryczny"
+		},
+		{
+			"id": "Fast",
+			"name": "Szybki"
+		},
+		{
+			"id": "Fear",
+			"name": "Strach (wartość)"
+		},
+		{
+			"id": "Flight",
+			"name": "Latanie (wartość)"
+		},
+		{
+			"id": "Frenzy",
+			"name": "Szał Bojowy"
+		},
+		{
+			"id": "Fury",
+			"name": "Furia"
+		},
+		{
+			"id": "Ghostly Howl",
+			"name": "Upiorne Wycie"
+		},
+		{
+			"id": "Hardy",
+			"name": "Twardziel"
+		},
+		{
+			"id": "Hatred",
+			"name": "Nienawiść (Obiekt)"
+		},
+		{
+			"id": "Horns (Feature)",
+			"name": "Rogi +Obrażenia (typ)"
+		},
+		{
+			"id": "Hungry",
+			"name": "Żarłoczny"
+		},
+		{
+			"id": "Immunity",
+			"name": "Niewrażliwość (rodzaj)"
+		},
+		{
+			"id": "Immunity to Psychology",
+			"name": "Niewrażliwość na Psychologię"
+		},
+		{
+			"id": "Infected",
+			"name": "Zaraza"
+		},
+		{
+			"id": "Infestation",
+			"name": "Zakażony"
+		},
+		{
+			"id": "Leader",
+			"name": "Przywódca"
+		},
+		{
+			"id": "Swamp-strider",
+			"name": "Bagnołaz"
+		},
+		{
+			"id": "Magical",
+			"name": "Magiczny"
+		},
+		{
+			"id": "Magic Resistance",
+			"name": "Odporność na Magię (wartość)"
+		},
+		{
+			"id": "Mental Corruption",
+			"name": "Spaczenie Umysłu"
+		},
+		{
+			"id": "Miracles",
+			"name": "Cuda (różne)"
+		},
+		{
+			"id": "Mutation",
+			"name": "Mutacja"
+		},
+		{
+			"id": "Night Vision",
+			"name": "Widzenie w Ciemności"
+		},
+		{
+			"id": "Painless",
+			"name": "Nie Czuje Bólu"
+		},
+		{
+			"id": "Petrifying Gaze",
+			"name": "Petryfikujące Spojrzenie"
+		},
+		{
+			"id": "Prejudice",
+			"name": "Uprzedzenie (obiekt)"
+		},
+		{
+			"id": "Ranged (Range)",
+			"name": "Strzelanie +Obrażenia (Zasięg)"
+		},
+		{
+			"id": "Rear",
+			"name": "Staje Dęba"
+		},
+		{
+			"id": "Regenerate",
+			"name": "Regeneracja"
+		},
+		{
+			"id": "Size",
+			"name": "Rozmiar (różne)"
+		},
+		{
+			"id": "Skittish",
+			"name": "Płochliwy"
+		},
+		{
+			"id": "Spellcaster",
+			"name": "Rzucanie Czarów (tradycja)"
+		},
+		{
+			"id": "Stealthy",
+			"name": "Skryty"
+		},
+		{
+			"id": "Stride",
+			"name": "Długi Krok"
+		},
+		{
+			"id": "Stupid",
+			"name": "Głupi"
+		},
+		{
+			"id": "Swarm",
+			"name": "Rój"
+		},
+		{
+			"id": "Tail Attack",
+			"name": "Atak Ogonem +Obrażenia"
+		},
+		{
+			"id": "Territorial",
+			"name": "Terytorialny"
+		},
+		{
+			"id": "Terror",
+			"name": "Groza (współczynnik)"
+		},
+		{
+			"id": "Tongue Attack (Range)",
+			"name": "Atak Językiem +Obrażenia (Zasięg)"
+		},
+		{
+			"id": "Tough",
+			"name": "Twardy"
+		},
+		{
+			"id": "Tracker",
+			"name": "Tropiciel"
+		},
+		{
+			"id": "Trained",
+			"name": "Wyszkolony (wyuczone um.)"
+		},
+		{
+			"id": "Undead",
+			"name": "Ożywieniec"
+		},
+		{
+			"id": "Unstable",
+			"name": "Niestabilny"
+		},
+		{
+			"id": "Wallcrawler",
+			"name": "Wspinacz"
+		},
+		{
+			"id": "Ward",
+			"name": "Ochrona (wartość)"
+		},
+		{
+			"id": "Weapon",
+			"name": "Broń +Obrażenia"
+		},
+		{
+			"id": "Web",
+			"name": "Sieć (wartość)"
+		},
+		{
+			"id": "Vampiric",
+			"name": "Wampiryczny"
+		},
+		{
+			"id": "Venom",
+			"name": "Jad (poziom trudności)"
+		},
+		{
+			"id": "Vomit",
+			"name": "Wymiot"
+		}
+	]
+}
