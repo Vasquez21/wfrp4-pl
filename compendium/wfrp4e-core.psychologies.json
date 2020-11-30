@@ -1,0 +1,41 @@
+{
+	"label": "Psychologia",
+	"entries": [
+		{
+			"id": "Animosity (Target)",
+			"name": "Wrogość (x)"
+		},
+		{
+			"id": "Camaraderie (Group)",
+			"name": "Więź (Grupa)"
+		},
+		{
+			"id": "Fear (Rating)",
+			"name": "Strach (x)"
+		},
+		{
+			"id": "Frenzy",
+			"name": "Szał Bojowy"
+		},
+		{
+			"id": "Hatred (Target)",
+			"name": "Nienawiść (x)"
+		},
+		{
+			"id": "Phobia (Target)",
+			"name": "Fobia (x)"
+		},
+		{
+			"id": "Prejudice",
+			"name": "Uprzedzenie (x)"
+		},
+		{
+			"id": "Terror (Rating)",
+			"name": "Groza (współczynnik)"
+		},
+		{
+			"id": "Trauma (Rating)",
+			"name": "Groza (współczynnik)"
+		}
+	]
+}

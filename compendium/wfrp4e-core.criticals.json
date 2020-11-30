@@ -1,0 +1,405 @@
+{
+  "label": "Krytyki",
+  "entries": [
+    {
+      "id": "Sprain",
+      "name": "Skręcenie",
+      "description": "Skręcone ramię skutkuje Zerwaniem mięśni (pomniejszym)."
+    },
+    {
+      "id": "Jarred Arm",
+      "name": "Zdrętwiałe ramię",
+      "description": "W wyniku ataku ramię przechodzą fale odrętwienia. Postać upuszcza wszystko, co trzymała w dłoni."
+    },
+    {
+      "id": "Minor Arm Cut",
+      "name": "Płytkie cięcie",
+      "description": "Postać otrzymuje 1 poziom Krwawienia w wyniku cięcia w ramię."
+    },
+    {
+      "id": "Torn Muscles",
+      "name": "Zerwane mięśnie",
+      "description": "Cios wbija się z impetem w przedramię. Postać otrzymuje 1 poziom Krwawienia oraz Uraz Zerwanie mięśni (pomniejsze)."
+    },
+    {
+      "id": "Badly Jarred Arm",
+      "name": "Bardzo zdrętwiałe ramię",
+      "description": "W wyniku ataku ramię zupełnie drętwieje. Postać upuszcza wszystko, co trzymała w dłoni, która przez 1k10 Rund - Bonus z Wytrzymałości (co najmniej 1) jest be"
+    },
+    {
+      "id": "Bleeding hand",
+      "name": "Krwawiąca dłoń",
+      "description": "Głębokie cięcie sprawia, że dłoń obficie krwawi, przez co chwyt staje się śliski. Postać otrzymuje 1 poziom Krwawienia. Dopóki dłoń będzie krwawić, we wszystkich Testach czynności, podczas których postać trzyma coś w dłoni, należy wykonać Przeciętny (+20) Test Zręczności. Jeśli ten się nie powiedzie, trzymany przedmiot wymyka się z dłoni."
+    },
+    {
+      "id": "Wrenched Arm",
+      "name": "Wybicie stawu",
+      "description": "Ramię prawie zostało wyrwane ze stawu. Wszystko, co było trzymane w dłoni, wypada, a ramię jest bezużyteczne przez 1k10 Rund (patrz: Amputacje)."
+    },
+    {
+      "id": "Ruptered Ligament",
+      "name": "Zerwane więzadło",
+      "description": "Postać natychmiast upuszcza wszystko, co trzymała w dłoni. Otrzymuje Zerwanie mięśni (pomniejsze)."
+    },
+    {
+      "id": "Deep Cut",
+      "name": "Głębokie cięcie",
+      "description": "Postać otrzymuje 2 poziomy Krwawienia w wyniku głębokiego cięcia. Ponadto otrzymuje również 1 poziom Oszołomienia oraz Zerwanie mięśni (pomniejsze). Musi także zdać Trudny (-20) Test Odporności, w przeciwnym wypadku nastąpi Utrata Przytomności."
+    },
+    {
+      "id": "Clean Break",
+      "name": "Czyste złamanie",
+      "description": "Z donośnym trzaskiem ramię pęka w miejscu uderzenia. Postać natychmiast upuszcza wszystko, co trzymała w dłoni, i otrzymuje Złamanie (pomniejsze). Musi także zdać Problematyczny (-10) Test Odporności, w przeciwnym wypadku otrzyma również 1 poziom Oszołomienia."
+    },
+    {
+      "id": "Gaping Arm Wound",
+      "name": "Ziejąca rana",
+      "description": "Cios skutkuje głęboką, otwartą raną. Postać otrzymuje 2 poziomy Krwawienia. Dopóki rozcięcie nie zostanie zszyte dzięki pomocy Chirurgicznej, każda Rana otrzymana w to ramię skutkuje zwiększeniem Krwawienia o 1 poziom, ponieważ rana się otwiera i pogłębia."
+    },
+    {
+      "id": "Dislocated Shoulder",
+      "name": "Wywichnięty bark",
+      "description": "Ramię zostało wyrwane ze stawu. Postać musi zdać Trudny (-20) Test Odporności, w przeciwnym wypadku otrzyma Stany Powalenie i Utrata Przytomności. Wszystko, co było trzymane w dłoni, wypada, a ramię jest bezużyteczne i uznawane za stracone (patrz: Amputacje). Ponadto postać otrzymuje 1 poziom Oszołomienia, dopóki nie zostanie jej udzielona Pomoc Medyczna. Jednakże nastawienie ramienia, nawet po udzieleniu Pomocy Medycznej, wymagać będzie Wydłużonego Przeciętnego (+20) Testu Leczenia, w którym należy osiągnąć co najmniej 6 PS. Dopiero wtedy postać będzie mogła znów ruszać ramieniem. Testy wykonywane przy pomocy tego ramienia obarczone są karą -10 przez 1k10 dni."
+    },
+    {
+      "id": "Severed Finger",
+      "name": "Odcięty palec",
+      "description": "Postać z otwartymi ustami patrzy na lecący w powietrzu własny palec – Amputacja (przeciętna). Postać otrzymuje 1 poziom Krwawienia."
+    },
+    {
+      "id": "Crushed Elbow",
+      "name": "Zmiażdżony łokieć",
+      "description": "Uderzenie gruchocze łokieć, rozłupując kości i chrząstkę. Postać natychmiast upuszcza wszystko, co trzymała w dłoni, i otrzymuje Załamanie (poważne)."
+    },
+    {
+      "id": "Damaged Artery",
+      "name": "Uszkodzona tętnica",
+      "description": "Postać otrzymuje 4 poziomy Krwawienia. Dopóki ktoś nie udzieli postaci pomocy Chirurgicznej, za każdym razem, gdy otrzyma ona Ranę w to ramię, dostanie dodatkowe 2 poziomy Krwawienia."
+    },
+    {
+      "id": "Mauled Bicep",
+      "name": "Rozszarpany biceps",
+      "description": "Cios niemal oddziela biceps i ścięgna od kości, co skutkuje paskudną raną i krwią bryzgającą na wszystkich dookoła. Postać automatycznie upuszcza wszystko, co trzymała w dłoni, i otrzymuje Uraz Zerwanie mięśni (poważne), 2 poziomy Krwawienia oraz 1 poziom Oszołomienia."
+    },
+    {
+      "id": "Cleft Hand",
+      "name": "Zmasakrowana dłoń",
+      "description": "Cios przecina dłoń, a rana zaczyna się rozszerzać. Postać traci 1 palec – Amputacja (problematyczna). Ponadto otrzymuje 2 poziomy Krwawienia oraz 1 poziom Oszołomienia. W każdej następnej Rundzie, jeśli nie otrzyma Pomocy Medycznej, traci kolejny palec, ponieważ rana się rozszerza, a dłoń po prostu rwie się na strzępy. Jeśli skończą się palce, postać traci dłoń – Amputacja (trudna)."
+    },
+    {
+      "id": "Sliced Tendons",
+      "name": "Przecięte ścięgna",
+      "description": "Cios przecina ścięgna, a ramię zwisa bezwładnie – Amputacja (bardzo trudna). Postać otrzymuje Stany: Powalenie, 3 poziomy Krwawienia i 1 poziom Oszołomienia. Musi także zdać Trudny (-20) Test Odporności, w przeciwnym wypadku nastąpi Utrata Przytomności."
+    },
+    {
+      "id": "Mangled Hand",
+      "name": "Zgruchotana dłoń",
+      "description": "Dłoń postaci jest zgruchotaną, krwawiącą papką. Postać traci dłoń – Amputacja (trudna) – i otrzymuje 2 poziomy Krwawienia. Musi zdać Trudny (-20) Test Odporności, w przeciwnym wypadku otrzyma Stany Powalenie i Utrata Przytomności."
+    },
+    {
+      "id": "Brutal Dismemberment",
+      "name": "Odcięte ramię",
+      "description": "Ramię odlatuje od ciała na 1k4 metry w losowym kierunku (patrz: Rozrzut), rozbryzgując tętniczą krew, a cios przebija się przez klatkę piersiową."
+    },
+    {
+      "id": "Twisted Back",
+      "name": "Cios w krzyż",
+      "description": "Postać otrzymuje Uraz Zerwanie mięśni (pomniejsze)."
+    },
+    {
+      "id": "Tis But A Scratch!",
+      "name": "Ledwie draśnięcie",
+      "description": "Postać ostrzymuje 1 poziom Krwawienia"
+    },
+    {
+      "id": "Gut Blow",
+      "name": "Cios w bebechy",
+      "description": "Postać otrzymuje 1 poziom Oszołomienia. Musi również wykonać Łatwy (+40) Test Odporności. Jeśli ten się nie uda, postać zwymiotuje i otrzyma Stan Powalenie."
+    },
+    {
+      "id": "Low Blow!",
+      "name": "Poniżej pasa!",
+      "description": "Postać otrzymuje 1 poziom Oszołomienia. Musi również wykonać Łatwy (+40) Test Odporności. Jeśli ten się nie uda, postać zwymiotuje i otrzyma Stan Powalenie."
+    },
+    {
+      "id": "Wrenched Collar Bone",
+      "name": "Stłuczony obojczyk",
+      "description": "Losowo wyznacz ramię. Wszystko, co było trzymane w dłoni po tej stronie ciała, wypada, a ramię jest bezużyteczne przez 1k10 Rund (patrz: Amputacje)."
+    },
+    {
+      "id": "Bruised Ribs",
+      "name": "Stłuczone żebra",
+      "description": "Wszystkie Testy Zwinności otrzymują karę -10 na 1k10 dni."
+    },
+    {
+      "id": "Ragged Wound",
+      "name": "Nierówne cięcie",
+      "description": "Postać otrzymuje 2 poziomy Krwawienia."
+    },
+    {
+      "id": "Winded",
+      "name": "Bez tchu",
+      "description": "Postać otrzymuje 1 poziom Oszołomienia. Musi również zdać Przeciętny (+20) Test Odporności albo otrzyma Stan Powalenie. Szybkość zmniejsza się o połowę na 1k10 Rund, czyli dopóki postać nie zacznie oddychać normalnie."
+    },
+    {
+      "id": "Cracked Ribs",
+      "name": "Połamane żebra",
+      "description": "Cios łamie jedno lub kilka żeber. Postać otrzymuje 1 poziom Oszołomienia. Ponad to otrzymuje Uraz Złamanie (pomniejsze)."
+    },
+    {
+      "id": "Gaping Chest Wound",
+      "name": "Ziejąca rana",
+      "description": "Postać otrzymuje 3 poziomy Krwawienia. Dopóki ktoś nie udzieli jej pomocy Chirurgicznej, za każdym razem, gdy postać otrzyma Ranę w korpus, otrzymuje dodatkowy poziom Krwawienia, gdyż rozcięcie się otwiera."
+    },
+    {
+      "id": "Painful Cut",
+      "name": "Bolesne cięcie",
+      "description": "Postać otrzymuje 2 poziomy Krwawienia oraz 1 poziom Oszołomienia. Musi także zdać Trudny (-20) Test Odporności, w przeciwnym wypadku nastąpi Utrata Przytomności z powodu bólu. Jeśli Test nie zakończy się co najmniej 4 PS, postać wyje z bólu."
+    },
+    {
+      "id": "Arterial Damage",
+      "name": "Uszkodzenie tętnicy",
+      "description": "Postać otrzymuje 4 poziomy Krwawienia. Dopóki ktoś nie udzieli jej pomocy Chirurgicznej, za każdym razem gdy postać otrzyma Ranę w korpus, otrzymuje dodatkowe 2 poziomy Krwawienia."
+    },
+    {
+      "id": "Fractured Hip",
+      "name": "Złamane biodro",
+      "description": "Postać otrzymuje 1 poziom Oszołomienia. Musi także zdać Wymagający (+0) Test Odporności, w przeciwnym wypadku otrzyma Stan Powalenie. Ponadto otrzymuje Uraz Złamanie (pomniejsze)."
+    },
+    {
+      "id": "Pulled Back",
+      "name": "Naderwane mięśnie pleców",
+      "description": "Plecy przemieniają się w jedną wielką strefę obezwładniającego bólu. Postać otrzymuje Uraz Zerwanie mięśni (pomniejsze)."
+    },
+    {
+      "id": "Gut Wound",
+      "name": "Rana brzucha",
+      "description": "Cios skutkuje zadaniem Ropiejącej Rany (patrz: Choroby i infekcje) i otrzymaniem 2 poziomów Krwawienia."
+    },
+    {
+      "id": "Major Chest Wound",
+      "name": "Poważna rana klatki piersiowej",
+      "description": "Postać otrzymuje poważny cios w klatkę piersiową, który oddziela skórę od mięśni i ścięgien. Otrzymuje 4 poziomy Krwawienia. Dopóki ktoś nie udzieli jej pomocy Chirurgicznej i nie zszyje rany, za każdym razem gdy postać otrzyma Ranę w korpus, otrzymuje dodatkowy poziom Krwawienia, a rana się otwiera. "
+    },
+    {
+      "id": "Broken Collar Bone",
+      "name": "Złamany obojczyk",
+      "description": "Postać pada na ziemię w Stanie Utrata Przytomności i nie ocknie się, dopóki nie zostanie jej udzielona Pomoc Medyczna, a ponadto otrzymuje Uraz Złamanie (poważne)."
+    },
+    {
+      "id": "Smashed Rib Cage",
+      "name": "Strzaskana klatka piersiowa",
+      "description": "Postać otrzymuje 1 poziom Oszołomienia, który można jedynie usunąć, udzielając Pomocy Medycznej, a także Uraz Złamanie (poważne)."
+    },
+    {
+      "id": "Internal Bleeding",
+      "name": "Krwotok wewnętrzny",
+      "description": "Postać otrzymuje 1 poziom Krwawienia, który można usunąć jedynie za pomocą Chirurgii. Ponadto Rana skutkuje także Zatruciem Krwi (patrz: Choroby i infekcje)."
+    },
+    {
+      "id": "Torn Apart",
+      "name": "Rozpłatanie",
+      "description": "Postać zostaje przecięta na dwoje. Górna połowa korpusu pada w losowym kierunku, a wszystkie postaci w promieniu 2 metrów zostają skąpane w fontannie krwi."
+    },
+    {
+      "id": "Poked Eye",
+      "name": "Spuchnięte oko",
+      "description": "Mocny cios trafia w oczodół. Postać otrzymuje 1 poziom Oślepienia."
+    },
+    {
+      "id": "Minor Head Cut",
+      "name": "Płytkie cięcie",
+      "description": "Cios przecina policzek, rozbryzgując dookoła krew. Postać otrzymuje 1 poziom Krwawienia."
+    },
+    {
+      "id": "Ear Bash",
+      "name": "Prosto w ucho",
+      "description": "Cios uderza w bok głowy z olbrzymią mocą, aż dzwoni w uchu. Postać otrzymuje 1 poziom Ogłuszenia."
+    },
+    {
+      "id": "Dramatic Injury",
+      "name": "Zawadiacka rana",
+      "description": "Mocny cios przez czoło i policzek. Postać otrzymuje 1 poziom Krwawienia. Po wyleczeniu takiej rany pozostaje budząca szacunek blizna, która zapewnia premię +1 PS do odpowiednich Testów w kontaktach społecznych. Premię tę można otrzymać tylko raz."
+    },
+    {
+      "id": "Struck Forehead",
+      "name": "Uderzenie w czoło",
+      "description": "Potężny cios trafia w sam środek czoła. Postać otrzymuje 2 poziomy Krwawienia oraz 1 poziom Oślepienia, który nie może zostać usunięty, dopóki Krwawienie nie zostanie wyleczone."
+    },
+    {
+      "id": "Sliced Ear",
+      "name": "Rozcięte ucho",
+      "description": "Cios w bok głowy jest na tyle mocny, że wrzyna się głęboko w ucho. Postać otrzymuje 2 poziomy Ogłuszenia i 1 poziom Krwawienia."
+    },
+    {
+      "id": "Black Eye",
+      "name": "Podbite oko",
+      "description": "Cios w oko jest na tyle mocny, że postać zaczyna łzawić z bólu. Postać otrzymuje 2 poziomy Oślepienia."
+    },
+    {
+      "id": "Rattling Blow",
+      "name": "Bolesne uderzenie",
+      "description": "Cios jest na tyle mocny, że w polu widzenia pojawiają się plamki i gwiazdki. Postać otrzymuje 1 poziom Oszołomienia."
+    },
+    {
+      "id": "Major Ear Wound",
+      "name": "Poważna rana ucha",
+      "description": "Cios niszczy małżowinę uszną, co skutkuje trwałym uszkodzeniem słuchu. Wszystkie Testy związane ze słuchem otrzymują karę -20. Jeśli postać otrzyma taką ranę ponownie, cios zadawany jest w drugie ucho, co skutkuje głuchotą. Wtedy pomoże już tylko magia."
+    },
+    {
+      "id": "Major Eye Wound",
+      "name": "Poważna rana oka",
+      "description": "Cios łamie oczodół. Postać otrzymuje 1 poziom Krwawienia. Ponadto otrzymuje również 1 poziom Oślepienia, który nie może zostać usunięty, dopóki postać nie otrzyma Pomocy Medycznej."
+    },
+    {
+      "id": "Fractured Jaw",
+      "name": "Złamana szczęka",
+      "description": "Cios z obrzydliwym chrupnięciem łamie żuchwę i zalewa twarz falą ogromnego bólu. Postać otrzymuje 2 poziomy Oszołomienia. Ponadto otrzymuje Uraz Złamanie (pomniejsze)."
+    },
+    {
+      "id": "Broken Nose",
+      "name": "Złamany nos",
+      "description": "Silny cios trafia w sam środek twarzy, a postać zalewa się krwią. Postać otrzymuje 2 poziomy Krwawienia. Musi także zdać Wymagający (+0) Test Odporności, w przeciwnym wypadku otrzyma również 1 poziom Oszołomienia. Po wyleczeniu tej rany postać uzyskuje premię +1 lub karę -1 do Testów w kontaktach społecznych (w zależności od kontekstu), chyba że podjęto Test Chirurgii, by nastawić i wyprostować nos."
+    },
+    {
+      "id": "Concussive Blow",
+      "name": "Wstrząśnienie mózgu",
+      "description": "Mózg obija się wewnątrz czaszki, a krew wypływa z nosa i uszu. Postać otrzymuje 1 poziom Ogłuszenia, 2 poziomy Krwawienia oraz 1k10 poziomów Oszołomienia. Ponadto na 1k10 dni uznaje się ją również za Wyczerpaną. Jeśli postać otrzyma kolejną Ranę Krytyczną w głowę, będąc jeszcze Wyczerpaną po ostatnim wstrząśnieniu mózgu, musi wykonać Przeciętny (+20) Test Odporności. Jeśli ten się nie powiedzie, następuje Utrata Przytomności."
+    },
+    {
+      "id": "Smashed Mouth",
+      "name": "Rozkwaszone usta",
+      "description": "Cios jest na tyle mocny, że usta wypełniają się wybitymi zębami i mnóstwem krwi. Postać otrzymuje 2 poziomy Krwawienia. Ponadto traci 1k10 zębów – to Amputacja (łatwa)."
+    },
+    {
+      "id": "Mangled Ear",
+      "name": "Zgruchotane ucho",
+      "description": "Po uchu zostaje niewiele, a cios odrywa je od ciała. Postać otrzymuje 3 poziomy Ogłuszenia i 2 poziomy Krwawienia. Ponadto traci ucho – Amputacja (przeciętna)."
+    },
+    {
+      "id": "Broken Jaw",
+      "name": "Zmiażdżona żuchwa",
+      "description": "Następuje obrzydliwy trzask, a cios trafia w szczękę od spodu, miażdżąc żuchwę. Postać otrzymuje 3 poziomy Oszołomienia. Musi także zdać Wymagający (+0) Test Odporności, w przeciwnym wypadku otrzyma również 1 poziom Ogłuszenia. Ponadto otrzymuje Uraz Złamanie (poważne)."
+    },
+    {
+      "id": "Disfiguring Blow",
+      "name": "Oszpecający cios",
+      "description": "Uderzenie roztrzaskuje całą twarz, niszcząc oko i nos w fontannie krwi. Postać otrzymuje 3 poziomy Oślepienia, 3 poziomy Krwawienia i 2 poziomy Oszołomienia. Następuje utrata oka i nosa – Amputacja (trudna)."
+    },
+    {
+      "id": "Devastated Eye",
+      "name": "Wybite oko",
+      "description": "Cios zupełnie niszczy gałkę oczną, wywołując niezwykle silny ból. Postać otrzymuje 3 poziomy Oślepienia, 2 poziomy Krwawienia i 1 poziom Oszołomienia. Ponadto traci oko – Amputacja (wymagająca)."
+    },
+    {
+      "id": "Mangled Jaw",
+      "name": "Zgruchotana szczęka",
+      "description": "Cios prawie odrywa żuchwę od ciała, niszcząc język, i rozrzuca dookoła połamane zęby w chmurze krwi. Postać otrzymuje 4 poziomy Krwawienia oraz 3 poziomy Oszołomienia. Musi także zdać Bardzo Trudny (-30) Test Odporności, w przeciwnym wypadku otrzyma również 1 poziom Ogłuszenia. Ponadto otrzymuje Uraz Złamanie (poważne) i traci język oraz 1k10 zębów – Amputacja (trudna)."
+    },
+    {
+      "id": "Decapitated",
+      "name": "Dekapitacja",
+      "description": "Cios gładko odcina głowę, która leci w powietrze, lądując 1k4 metry w dowolnym kierunku (patrz: Rozrzut). Martwe, bezgłowe ciało pada na ziemię."
+    },
+    {
+      "id": "Twisted Ankle",
+      "name": "Skręcona kostka",
+      "description": "Niepewny krok kończy się skręceniem kostki. Wszystkie Testy Zwinności obarczone są karą -10 na 1k10 dni."
+    },
+    {
+      "id": "Stubbed Toe",
+      "name": "Stłuczony palec",
+      "description": "W wyniku starcia postać otrzymuje bolesne uderzenie w paluch. Należy przeprowadzić Przeciętny (+20) Test Odporności, a jeśli ten się nie powiedzie, do końca następnej Rundy wszystkie Testy Zwinności obarczone będą karą -10."
+    },
+    {
+      "id": "Lost Footing",
+      "name": "Utrata równowagi",
+      "description": "W wyniku szamotaniny postać traci równowagę. Musi także zdać Wymagający (+0) Test Odporności, w przeciwnym wypadku otrzyma Stan Powalenie."
+    },
+    {
+      "id": "Minor Leg Cut",
+      "name": "Płytkie cięcie",
+      "description": "Postać otrzymuje 1 poziom Krwawienia."
+    },
+    {
+      "id": "Thigh Strike",
+      "name": "Cios w udo",
+      "description": "Bolesny cios uderza prosto w górną część uda, tuż przy biodrze. Postać otrzymuje 1 poziom Krwawienia, musi również wykonać Przeciętny (+20) Test Odporności, a jeśli się jej nie uda, otrzyma Stan Powalenie."
+    },
+    {
+      "id": "Badly Cut Toe",
+      "name": "Paskudnie przecięty paluch",
+      "description": "Postać otrzymuje 1 poziom Krwawienia. Musi także zdać Wymagający (+0) Test Odporności. Jeśli ten się nie uda, postać traci 1 palec u nogi – Amputacja (przeciętna)."
+    },
+    {
+      "id": "Sprained Ankle",
+      "name": "Zwichnięta kostka",
+      "description": "W wyniku zwichnięcia postać otrzymuje Uraz Zerwanie mięśni (pomniejsze)."
+    },
+    {
+      "id": "Twisted Knee",
+      "name": "Skręcone kolano",
+      "description": "Postać, próbując uniknąć ciosu przeciwnika, odskakuje, ale manewr kończy się poważnym skręceniem kolana. Otrzymuje Uraz Zerwanie mięśni (poważne)."
+    },
+    {
+      "id": "Torn Thigh",
+      "name": "Poszarpane udo",
+      "description": "Postać otrzymuje 3 poziomy Krwawienia, a cios odrywa kawał mięśni z jej uda. Musi także zdać Wymagający (+0) Test Odporności, w przeciwnym wypadku otrzyma Stan Powalenie. Dopóki postać nie otrzyma pomocy Chirurgicznej i udo nie zostanie zszyte, każda Rana otrzymana w tę nogę będzie skutkować zwiększeniem Krwawienia o 1 poziom."
+    },
+    {
+      "id": "Bad Cut",
+      "name": "Paskudne cięcie",
+      "description": "Postać otrzymuje 2 poziomy Krwawienia, a na jej łydce pojawia się głębokie otwarte rozcięcie. Musi także zdać Wymagający (+0) Test Odporności, w przeciwnym wypadku otrzyma Stan Powalenie."
+    },
+    {
+      "id": "Badly Twisted Knee",
+      "name": "Skręcone kolano",
+      "description": "Postać, próbując uniknąć ciosu przeciwnika, odskakuje, ale manewr kończy się poważnym skręceniem kolana. Otrzymuje Uraz Zerwanie mięśni (poważne)."
+    },
+    {
+      "id": "Hacked Leg",
+      "name": "Porąbana noga",
+      "description": "Cios wgryza się głęboko w biodro. Postać otrzymuje Stany Powalenie oraz 2 poziomy Krwawienia. Zyskuje też Uraz Złamanie (pomniejsze). Musi także zdać Wymagający (+20) Test Odporności, w przeciwnym wypadku otrzyma również 1 poziom Oszołomienia."
+    },
+    {
+      "id": "Dislocated Knee",
+      "name": "Zwichnięte kolano",
+      "description": "Kolano zostaje wyrwane ze stawu. Postać otrzymuje Stan Powalenie i pada na ziemię. Musi zdać Trudny (-20) Test Odporności, w przeciwnym wypadku otrzyma 1 poziom Oszołomienia, którego nie można usunąć, dopóki nie zostanie jej udzielona Pomoc Medyczna. Jednakże nastawienie kolana, nawet po udzieleniu Pomocy Medycznej, wymagać będzie Wydłużonego Przeciętnego (+20) Testu Leczenia, w którym należy osiągnąć co najmniej 6 PS. Dopiero wtedy postać będzie mogła znów ruszać nogą. Szybkość spada o połowę, a wszystkie Testy, w których wykorzystywana jest noga, otrzymują karę -10 przez 1k10 dni."
+    },
+    {
+      "id": "Ruptured Tendon",
+      "name": "Zerwane ścięgno",
+      "description": "W wyniku zerwania ścięgna w nodze postać otrzymuje Stany Powalenie i Oszołomienie. Musi także zdać Trudny (-20) Test Odporności, w przeciwnym wypadku nastąpi Utrata Przytomności. Noga jest bezwładna (patrz: Amputacje), a cios skutkuje Urazem Zerwanie mięśni (poważne)."
+    },
+    {
+      "id": "Carved Shin",
+      "name": "Rozerwana łydka",
+      "description": "Cios trafia czysto pod kolano, rozcinając mięśnie i ścięgna aż do kości. Postać otrzymuje Stany: Powalenie i 1 poziom Oszołomienia. Ponadto zyskuje Urazy Zerwanie mięśni (pomniejsze) oraz Złamanie (pomniejsze)."
+    },
+    {
+      "id": "Broken Knee",
+      "name": "Strzaskane kolano",
+      "description": "Cios roztrzaskuje rzepkę, której fragmenty wbijają się w mięśnie i staw. Postać otrzymuje Stany: Powalenie, 1 poziom Krwawienia i 1 poziom Oszołomienia oraz Uraz Złamanie (poważne), padając na ziemię i trzymając się za strzaskane kolano."
+    },
+    {
+      "id": "Cut Tendon",
+      "name": "Przecięte ścięgna",
+      "description": "Ważne ścięgno w nodze zostaje przecięte. Kończyna nie wytrzymuje ciężaru ciała, a postać pada na ziemię, wrzeszcząc z bólu. Otrzymuje Stany: Powalenie, 2 poziomy Krwawienia, 2 poziomy Oszołomienia i z przerażeniem patrzy na swoją bezużyteczną, bezwładną nogę – Amputacja (bardzo trudna)."
+    },
+    {
+      "id": "Severed Foot",
+      "name": "Odcięta stopa",
+      "description": "Cios odcina stopę, która odlatuje na 1k4 metry w losowym kierunku (patrz: Rozrzut) – Amputacja (trudna). Postać otrzymuje Stany: Powalenie, 3 poziomy Krwawienia i 2 poziomy Oszołomienia."
+    },
+    {
+      "id": "Shattered Pelvis",
+      "name": "Strzaskana miednica",
+      "description": "Cios miażdży miednicę, odcinając jedną nogę i wrzynając się w drugą. Ból, szok i utrata krwi są tak duże, że postać pada martwa na ziemię."
+    },
+    {
+      "id": "Crushed Foot",
+      "name": "Zmiażdżona stopa",
+      "description": "Cios miażdży stopę postaci. Ta musi również wykonać Przeciętny (+20) Test Odporności, a jeśli się jej nie uda, otrzyma Stan Powalenie, straci 1 palec u nogi, a także 1 dodatkowy palec za każdy PS poniżej 0 – Amputacja (przeciętna). Postać otrzymuje 2 poziomy Krwawienia. Jeśli w ciągu 1k10 dni nie zostanie przeprowadzona operacja Chirurgiczna, będzie trzeba amputować całą stopę."
+    }
+  ]
+}

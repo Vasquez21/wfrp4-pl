@@ -1,0 +1,1013 @@
+{
+	"label": "Ekwipunek",
+	"entries": [
+		{
+			"id": "Hand Weapon",
+			"name": "Broń Ręczna"
+		},
+		{
+			"id": "Improvised Weapon",
+			"name": "Broń Improwizowana"
+		},
+		{
+			"id": "Dagger",
+			"name": "Sztylet"
+		},
+		{
+			"id": "Knife",
+			"name": "Nóż"
+		},
+		{
+			"id": "Shield (Buckler)",
+			"name": "Tarcza (puklerz)"
+		},
+		{
+			"id": "Shield",
+			"name": "Tarcza"
+		},
+		{
+			"id": "Shield (Large)",
+			"name": "Tarcza (duża)"
+		},
+		{
+			"id": "Cavalry Hammer",
+			"name": "Młot kawaleryjski"
+		},
+		{
+			"id": "Lance",
+			"name": "Kopia"
+		},
+		{
+			"id": "Foil",
+			"name": "Floret"
+		},
+		{
+			"id": "Lance",
+			"name": "Kopia"
+		},
+		{
+			"id": "Unarmed",
+			"name": "Pięść i kopniaki"
+		},
+		{
+			"id": "Knuckledusters",
+			"name": "Kastet"
+		},
+		{
+			"id": "Grain Flail",
+			"name": "Cep bojowy"
+		},
+		{
+			"id": "Flail",
+			"name": "Korbacz"
+		},
+		{
+			"id": "Military Flail",
+			"name": "Kiścień"
+		},
+		{
+			"id": "Main Gauche",
+			"name": "Lewak"
+		},
+		{
+			"id": "Swordbreaker",
+			"name": "Łamacz mieczy"
+		},
+		{
+			"id": "Halberd",
+			"name": "Halabarda"
+		},
+		{
+			"id": "Spear",
+			"name": "Włócznia"
+		},
+		{
+			"id": "Pike",
+			"name": "Pika"
+		},
+		{
+			"id": "Quarterstaff",
+			"name": "Kostur"
+		},
+		{
+			"id": "Bastard Sword",
+			"name": "Półtorak"
+		},
+		{
+			"id": "Great Axe",
+			"name": "Wielki topór"
+		},
+		{
+			"id": "Pick",
+			"name": "Nadziak"
+		},
+		{
+			"id": "Warhammer",
+			"name": "Młot bojowy"
+		},
+		{
+			"id": "Zweihander",
+			"name": "Miecz dwuręczny"
+		},
+		{
+			"id": "Blunderbuss",
+			"name": "Garłacz"
+		},
+		{
+			"id": "Hochland Long Rifle",
+			"name": "Muszkiet hochlandzki"
+		},
+		{
+			"id": "Handgun",
+			"name": "Rusznica"
+		},
+		{
+			"id": "Pistol",
+			"name": "Pistolet"
+		},
+		{
+			"id": "Elf Bow",
+			"name": "Łuk elfi"
+		},
+		{
+			"id": "Longbow",
+			"name": "Łuk długi"
+		},
+		{
+			"id": "Bow",
+			"name": "Łuk"
+		},
+		{
+			"id": "Shortbow",
+			"name": "Krótki łuk"
+		},
+		{
+			"id": "Crossbow Pistol",
+			"name": "Kusza pistoletowa"
+		},
+		{
+			"id": "Heavy Crossbow",
+			"name": "Ciężka kusza"
+		},
+		{
+			"id": "Crossbow",
+			"name": "Kusza"
+		},
+		{
+			"id": "Repeater Handgun",
+			"name": "Rusznica samopowtarzalna"
+		},
+		{
+			"id": "Repeater Pistol",
+			"name": "Pistolet samopowtarzalny"
+		},
+		{
+			"id": "Lasso",
+			"name": "Arkan (Lasso)"
+		},
+		{
+			"id": "Whip",
+			"name": "Bicz"
+		},
+		{
+			"id": "Bomb",
+			"name": "Bomba"
+		},
+		{
+			"id": "Incendiary",
+			"name": "Ładunek zapalający"
+		},
+		{
+			"id": "Sling",
+			"name": "Proca"
+		},
+		{
+			"id": "Staff Sling",
+			"name": "Proca drzewcowa"
+		},
+		{
+			"id": "Bolas",
+			"name": "Bolas"
+		},
+		{
+			"id": "Dart",
+			"name": "Strzałka"
+		},
+		{
+			"id": "Javelin",
+			"name": "Oszczep"
+		},
+		{
+			"id": "Rock",
+			"name": "Kamień"
+		},
+		{
+			"id": "Throwing Axe",
+			"name": "Topór do rzucania"
+		},
+		{
+			"id": "Throwing Knife",
+			"name": "Nóż do rzucania"
+		},
+		{
+			"id": "Bullet and Powder",
+			"name": "Pocisk i proch"
+		},
+		{
+			"id": "Improvised Shot and Powder",
+			"name": "Improwizowany śrut i proch"
+		},
+		{
+			"id": "Small shot and Powder",
+			"name": "Śrut i proch"
+		},
+		{
+			"id": "Arrow",
+			"name": "Strzała"
+		},
+		{
+			"id": "Elf Arrow",
+			"name": "Strzała elfia"
+		},
+		{
+			"id": "Bolt",
+			"name": "Bełt"
+		},
+		{
+			"id": "Lead Bullet",
+			"name": "Pocisk ołowiany"
+		},
+		{
+			"id": "Stone Bullet",
+			"name": "Pocisk kamienny"
+		},
+		{
+			"id": "Leather Jack",
+			"name": "Skórzana kurta"
+		},
+		{
+			"id": "Leather Jerkin",
+			"name": "Skórzany kaftan"
+		},
+		{
+			"id": "Leather Leggings",
+			"name": "Skórzane nogawice"
+		},
+		{
+			"id": "Leather Skullcap",
+			"name": "Skórzany hełm"
+		},
+		{
+			"id": "Boiled Leather Breastplate",
+			"name": "Kolet (Skóra hartowana)"
+		},
+		{
+			"id": "Mail Chausses",
+			"name": "Nogawice kolcze"
+		},
+		{
+			"id": "Mail Coat",
+			"name": "Kolczuga"
+		},
+		{
+			"id": "Mail Coif",
+			"name": "Czerpiec kolczy"
+		},
+		{
+			"id": "Mail Shirt",
+			"name": "Kaftan kolczy"
+		},
+		{
+			"id": "Plate Breastplate",
+			"name": "Napierśnik"
+		},
+		{
+			"id": "Plate Open Helm",
+			"name": "Hełm otwarty"
+		},
+		{
+			"id": "Plate Bracers",
+			"name": "Naramienniki"
+		},
+		{
+			"id": "Plate Leggings",
+			"name": "Nagolenniki płytowe"
+		},
+		{
+			"id": "Plate Helm",
+			"name": "Hełm"
+		},
+		{
+			"id": "Backpack",
+			"name": "Plecak"
+		},
+		{
+			"id": "Barrel",
+			"name": "Beczka"
+		},
+		{
+			"id": "Cask",
+			"name": "Beczułka"
+		},
+		{
+			"id": "Flask",
+			"name": "Butelka"
+		},
+		{
+			"id": "Jug",
+			"name": "Dzban"
+		},
+		{
+			"id": "Pewter Stein",
+			"name": "Kufel cynowy"
+		},
+		{
+			"id": "Pouch",
+			"name": "Sakiewka"
+		},
+		{
+			"id": "Sack",
+			"name": "Worek"
+		},
+		{
+			"id": "Sack, Large",
+			"name": "Duży worek"
+		},
+		{
+			"id": "Saddlebags",
+			"name": "Juki"
+		},
+		{
+			"id": "Sling Bag",
+			"name": "Torba na ramię"
+		},
+		{
+			"id": "Scroll Case",
+			"name": "Tuba na zwoje"
+		},
+		{
+			"id": "Waterskin",
+			"name": "Bukłak"
+		},
+		{
+			"id": "Boots",
+			"name": "Wysokie buty"
+		},
+		{
+			"id": "Cloak",
+			"name": "Płaszcz"
+		},
+		{
+			"id": "Clothing",
+			"name": "Ubranie"
+		},
+		{
+			"id": "Coat",
+			"name": "Opończa"
+		},
+		{
+			"id": "Costume",
+			"name": "Kostium"
+		},
+		{
+			"id": "Courtly Garb ",
+			"name": "Strój dworski"
+		},
+		{
+			"id": "Face Powder",
+			"name": "Puder do twarzy"
+		},
+		{
+			"id": "Gloves",
+			"name": "Rękawiczki"
+		},
+		{
+			"id": "Hat",
+			"name": "Kapelusz"
+		},
+		{
+			"id": "Hood",
+			"name": "Kaptur"
+		},
+		{
+			"id": "Mask",
+			"name": "Maska"
+		},
+		{
+			"id": "Jewellry",
+			"name": "Biżuteria"
+		},
+		{
+			"id": "Perfume",
+			"name": "Perfumy"
+		},
+		{
+			"id": "Pins",
+			"name": "Zapinki"
+		},
+		{
+			"id": "Religious Symbol",
+			"name": "Symbol religijny"
+		},
+		{
+			"id": "Robes",
+			"name": "Szata"
+		},
+		{
+			"id": "Scepter",
+			"name": "Berło"
+		},
+		{
+			"id": "Shoes",
+			"name": "Buty"
+		},
+		{
+			"id": "Signet Ring",
+			"name": "Sygnet"
+		},
+		{
+			"id": "Tattoo",
+			"name": "Tatuaż"
+		},
+		{
+			"id": "Uniform",
+			"name": "Mundur"
+		},
+		{
+			"id": "Walking Cane",
+			"name": "Laska"
+		},
+		{
+			"id": "Ale, pint",
+			"name": "Pół litra piwa"
+		},
+		{
+			"id": "Ale, Keg",
+			"name": "Beczułka piwa"
+		},
+		{
+			"id": "Bugman’s XXXXXX Ale, pint ",
+			"name": "Pół litra przesławnego Piwa Bugmana"
+		},
+		{
+			"id": "Food, groceries/day",
+			"name": "Jedzenie na zimno na 1 dzień"
+		},
+		{
+			"id": "Meal, inn",
+			"name": "Ciepły posiłek w gospodzie"
+		},
+		{
+			"id": "Rations, 1 day",
+			"name": "Prowiant na 1 dzień"
+		},
+		{
+			"id": "Room, common/night",
+			"name": "Wspólna izba na 1 noc"
+		},
+		{
+			"id": "Room, private/night",
+			"name": "Prywatny pokój na 1 noc"
+		},
+		{
+			"id": "Spirits, pint",
+			"name": "Pół litra moncego trunku"
+		},
+		{
+			"id": "Stables/night",
+			"name": "Stajnia na 1 noc"
+		},
+		{
+			"id": "Wine, bottle",
+			"name": "Butelka wina"
+		},
+		{
+			"id": "Wine & Spirits, drink",
+			"name": "Kielich wina lub mocnego trunku"
+		},
+		{
+			"id": "Abacus",
+			"name": "Liczydło"
+		},
+		{
+			"id": "Animal Trap",
+			"name": "Sidła na zwierzęta"
+		},
+		{
+			"id": "Antitoxin Kit",
+			"name": "Zestaw na zatrucia"
+		},
+		{
+			"id": "Boat Hook",
+			"name": "Bosak"
+		},
+		{
+			"id": "Broom",
+			"name": "Miotła"
+		},
+		{
+			"id": "Bucket",
+			"name": "Wiadro"
+		},
+		{
+			"id": "Chisel",
+			"name": "Dłuto"
+		},
+		{
+			"id": "Comb",
+			"name": "Grzebień"
+		},
+		{
+			"id": "Crowbar",
+			"name": "Łom"
+		},
+		{
+			"id": "Crutch",
+			"name": "Kule"
+		},
+		{
+			"id": "Disguise Kit",
+			"name": "Zestaw do charakteryzacji"
+		},
+		{
+			"id": "Ear Pick",
+			"name": "Narzędzia do czyszczenia uszu"
+		},
+		{
+			"id": "Fish Hooks",
+			"name": "Haczyki na ryby"
+		},
+		{
+			"id": "Floor Brush",
+			"name": "Szczotka do podłogi"
+		},
+		{
+			"id": "Gavel",
+			"name": "Młotek sędziego"
+		},
+		{
+			"id": "Hammer",
+			"name": "Młotek"
+		},
+		{
+			"id": "Hand Mirror",
+			"name": "Lusterko ręczne"
+		},
+		{
+			"id": "Hoe",
+			"name": "Motyka"
+		},
+		{
+			"id": "Key",
+			"name": "Klucz"
+		},
+		{
+			"id": "Lock Picks",
+			"name": "Wytrychy"
+		},
+		{
+			"id": "Manacles",
+			"name": "Kajdany"
+		},
+		{
+			"id": "Mop",
+			"name": "Mop"
+		},
+		{
+			"id": "Nails ",
+			"name": "Gwoździe"
+		},
+		{
+			"id": "Paint Brush",
+			"name": "Pędzel do malowania"
+		},
+		{
+			"id": "Pestle & Mortar",
+			"name": "Moździerz z tłuczkiem"
+		},
+		{
+			"id": "Pick",
+			"name": "Kilof"
+		},
+		{
+			"id": "Pole (3 yards)",
+			"name": "Drąg (3m)"
+		},
+		{
+			"id": "Quill Pen",
+			"name": "Pióro do pisania"
+		},
+		{
+			"id": "Rake",
+			"name": "Grabie"
+		},
+		{
+			"id": "Reading Lens",
+			"name": "Soczewki do czytania"
+		},
+		{
+			"id": "Saw",
+			"name": "Piła"
+		},
+		{
+			"id": "Sickle",
+			"name": "Sierp"
+		},
+		{
+			"id": "Spade",
+			"name": "Szpadel"
+		},
+		{
+			"id": "Spike",
+			"name": "Kołek"
+		},
+		{
+			"id": "Stamp, engraved",
+			"name": "Grawerowana pieczęć"
+		},
+		{
+			"id": "Tongs, steel",
+			"name": "Stalowe szczypce"
+		},
+		{
+			"id": "Telescope",
+			"name": "Teleskop"
+		},
+		{
+			"id": "Tweezers",
+			"name": "Pinceta"
+		},
+		{
+			"id": "Writing Kit",
+			"name": "Zestaw do pisania"
+		},
+		{
+			"id": "Book, Apothecary",
+			"name": "Księga, Aptekarstwo"
+		},
+		{
+			"id": "Book, Art",
+			"name": "Księga, sztuka"
+		},
+		{
+			"id": "Book, Cryptography",
+			"name": "Księga, kryptografia"
+		},
+		{
+			"id": "Book, Engineer",
+			"name": "Księga, inżynieria"
+		},
+		{
+			"id": "Book, Law",
+			"name": "Księga, prawo"
+		},
+		{
+			"id": "Book, Magic",
+			"name": "Księga, magia"
+		},
+		{
+			"id": "Book, Medicine",
+			"name": "Księga, medycyna"
+		},
+		{
+			"id": "Book, Religion",
+			"name": "Księga, religia"
+		},
+		{
+			"id": "Guild License",
+			"name": "Licencja cechu/gildii"
+		},
+		{
+			"id": "Leaflet",
+			"name": "Broszura"
+		},
+		{
+			"id": "Legal Document",
+			"name": "Dokument prawny"
+		},
+		{
+			"id": "Map",
+			"name": "Mapa"
+		},
+		{
+			"id": "Parchment/sheet",
+			"name": "Arkusz pergaminu"
+		},
+		{
+			"id": "Trade Tools (Type)",
+			"name": "Narzędzia pracy (typ)"
+		},
+		{
+			"id": "Workshop (Type)",
+			"name": "Warsztat (typ)"
+		},
+		{
+			"id": "Cart",
+			"name": "Furmanka"
+		},
+		{
+			"id": "Chicken",
+			"name": "Kurczak"
+		},
+		{
+			"id": "Coach",
+			"name": "Powóz"
+		},
+		{
+			"id": "Coracle",
+			"name": "Łódka dłubanka"
+		},
+		{
+			"id": "Destrier",
+			"name": "Rumak"
+		},
+		{
+			"id": "Dog collar and lead",
+			"name": "Obroża i smycz dla psa"
+		},
+		{
+			"id": "Draught Horse",
+			"name": "Koń pociągowy"
+		},
+		{
+			"id": "Homing Pigeon",
+			"name": "Gołąb pocztowy"
+		},
+		{
+			"id": "Hunting Dog",
+			"name": "Pies myśliwski"
+		},
+		{
+			"id": "Light Warhorse",
+			"name": "Lekki koń bojowy"
+		},
+		{
+			"id": "Monkey",
+			"name": "Małpa"
+		},
+		{
+			"id": "Mule",
+			"name": "Muł"
+		},
+		{
+			"id": "Pony",
+			"name": "Kucyk"
+		},
+		{
+			"id": "Riding Horse",
+			"name": "Koń wierzchowy"
+		},
+		{
+			"id": "River Barge",
+			"name": "Barka rzeczna"
+		},
+		{
+			"id": "Row Boat",
+			"name": "Łódź wiosłowa"
+		},
+		{
+			"id": "Saddle and Harness",
+			"name": "Uprząż z siodłem"
+		},
+		{
+			"id": "Wagon",
+			"name": "Wóz"
+		},
+		{
+			"id": "Worms",
+			"name": "Robaki"
+		},
+		{
+			"id": "Black Lotus",
+			"name": "Czarny lotos"
+		},
+		{
+			"id": "Heartkill",
+			"name": "Sercobój"
+		},
+		{
+			"id": "Mad Cap Mushrooms",
+			"name": "Grzybki Szalonego Kapelusznika"
+		},
+		{
+			"id": "Mandrake Root",
+			"name": "Korzeń mandragory"
+		},
+		{
+			"id": "Moonflower",
+			"name": "Księżycowy kwiat"
+		},
+		{
+			"id": "Ranald's Delight",
+			"name": "Rozkosz Ranalda"
+		},
+		{
+			"id": "Spit",
+			"name": "Pluja"
+		},
+		{
+			"id": "Weirdroot",
+			"name": "Dziwnokorzeń"
+		},
+		{
+			"id": "Digestive Tonic",
+			"name": "Tonik na trawienie"
+		},
+		{
+			"id": "Earth Root",
+			"name": "Ziemny korzeń"
+		},
+		{
+			"id": "Faxtoryll",
+			"name": "Fakstoryl"
+		},
+		{
+			"id": "Healing Draught",
+			"name": "Mikstura lecznicza"
+		},
+		{
+			"id": "Healing Poultice",
+			"name": "Kataplazm leczniczy"
+		},
+		{
+			"id": "Nightshade",
+			"name": "Nocny cień"
+		},
+		{
+			"id": "Salwort",
+			"name": "Salwort (sole trzeźwiące)"
+		},
+		{
+			"id": "Vitality Draught",
+			"name": "Eliksir żywotności"
+		},
+		{
+			"id": "Eye patch",
+			"name": "Opaska na oko"
+		},
+		{
+			"id": "False Eye",
+			"name": "Sztuczne oko"
+		},
+		{
+			"id": "False Leg",
+			"name": "Sztuczna noga"
+		},
+		{
+			"id": "Gilded Nose",
+			"name": "Złoty nos"
+		},
+		{
+			"id": "Hook",
+			"name": "Hak"
+		},
+		{
+			"id": "Engineering Marvel",
+			"name": "Cud inżynierii"
+		},
+		{
+			"id": "Wooden Teeth",
+			"name": "Drewniane zęby"
+		},
+		{
+			"id": "Ball",
+			"name": "Piłka"
+		},
+		{
+			"id": "Bandage",
+			"name": "Bandaż"
+		},
+		{
+			"id": "Baton ",
+			"name": "Pałka"
+		},
+		{
+			"id": "Bedroll ",
+			"name": "Zwijane posłanie"
+		},
+		{
+			"id": "Blanket",
+			"name": "Koc"
+		},
+		{
+			"id": "Candle",
+			"name": "Świece"
+		},
+		{
+			"id": "Canvas Tarp",
+			"name": "Płócienna plandeka"
+		},
+		{
+			"id": "Chalk",
+			"name": "Kreda"
+		},
+		{
+			"id": "Charcoal stick",
+			"name": "Węgiel do rysowania"
+		},
+		{
+			"id": "Cutlery",
+			"name": "Sztućce"
+		},
+		{
+			"id": "Davrich Lamp",
+			"name": "Lampa Davricha"
+		},
+		{
+			"id": "Deck of Cards",
+			"name": "Talia kart"
+		},
+		{
+			"id": "Cooking Pot",
+			"name": "Kociołek do gotowania"
+		},
+		{
+			"id": "Cup",
+			"name": "Kubek"
+		},
+		{
+			"id": "Dice",
+			"name": "Kości do gry"
+		},
+		{
+			"id": "Doll",
+			"name": "Lalka"
+		},
+		{
+			"id": "Grappling Hook",
+			"name": "Kotwiczka"
+		},
+		{
+			"id": "Instrument",
+			"name": "Instrument"
+		},
+		{
+			"id": "Lamp Oil",
+			"name": "Lampa oliwna"
+		},
+		{
+			"id": "Lantern",
+			"name": "Latarnia"
+		},
+		{
+			"id": "Storm Lantern",
+			"name": "Lampa sztormowa"
+		},
+		{
+			"id": "Match",
+			"name": "Zapałka"
+		},
+		{
+			"id": "Pan",
+			"name": "Patelnia"
+		},
+		{
+			"id": "Pipe and Tobacco",
+			"name": "Fajka i tytoń"
+		},
+		{
+			"id": "Placard",
+			"name": "Afisz"
+		},
+		{
+			"id": "Plate",
+			"name": "Talerz"
+		},
+		{
+			"id": "Bowl",
+			"name": "Miska"
+		},
+		{
+			"id": "Rags",
+			"name": "Szmaty"
+		},
+		{
+			"id": "Rope, 10 yards",
+			"name": "Lina, 10 metrów"
+		},
+		{
+			"id": "Tent",
+			"name": "Namiot"
+		},
+		{
+			"id": "Tinderbox",
+			"name": "Pudełko na hubkę i krzesiwo"
+		},
+		{
+			"id": "Silver Shilling",
+			"name": "Szylingi (srebro)"
+		},
+		{
+			"id": "Gold Crown",
+			"name": "Korony (złoto)"
+		},
+		{
+			"id": "Brass Penny",
+			"name": "Pensy (brąz)"
+		},
+		{
+			"id": "Flask of Spirits",
+			"name": "Butelka alkoholu"
+		}
+	]
+}
