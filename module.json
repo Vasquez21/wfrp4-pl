@@ -2,7 +2,7 @@
 	"name": "wfrp4-pl",
 	"title": "Polish translation for WFRP4",
 	"description": "Add Polish translation to WFRP4 system for FoundryVTT.",
-	"version": "0.6.0",
+	"version": "0.7.0",
 	"author": "Vasquez21",
 	"languages": [
 		{

@@ -1,4 +1,16 @@
 {
+
+    "CHAR.WS": "Walka Wręcz",
+	"CHAR.BS": "Umiejętności Strzeleckie",
+	"CHAR.S": "Siła",
+	"CHAR.T": "Wytrzymałość",
+	"CHAR.I": "Inicjatywa",
+	"CHAR.Ag": "Zwinność",
+	"CHAR.Dex": "Zręczność",
+	"CHAR.Int": "Inteligencja",
+	"CHAR.WP": "Willpower",
+    "CHAR.Fel": "Ogłada",
+	
 	"CHARAbbrev.WS": "WW",
 	"CHARAbbrev.BS": "US",
 	"CHARAbbrev.S": "S",
@@ -9,6 +21,27 @@
 	"CHARAbbrev.Int": "Int",
 	"CHARAbbrev.WP": "SW",
 	"CHARAbbrev.Fel": "Ogd",
+	
+	 
+    "SPEC.Basic" : "Podstawowa",
+    "SPEC.Cavalry" : "Kawaleryjska",
+    "SPEC.Fencing" : "Szermiercza",
+    "SPEC.Brawling" : "Bijatyka",
+    "SPEC.Flail" : "Korbacze",
+    "SPEC.Parry" : "Parująca",
+    "SPEC.Polearm" : "Drzewcowa",
+    "SPEC.TwoHanded" : "Dwuręczna",
+    "SPEC.Blackpowder" : "Prochowa",
+    "SPEC.Bow" : "Łuki",
+    "SPEC.Crossbow" : "Kusze",
+    "SPEC.Entangling" : "Oplotująca",
+    "SPEC.Engineering" : "Eksperymentalna",
+    "SPEC.Explosives" : "Mat. Wybuchowe",
+    "SPEC.Sling" : "Proce",
+    "SPEC.Throwing" : "Miotana",
+	
+	"NAME.Melee": "Broń biała",
+	"NAME.Ranged": "Broń Zasięgowa",
 	
 	"Age": "Wiek",	
 	"Career" : "Profesja",

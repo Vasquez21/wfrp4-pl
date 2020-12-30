@@ -1,0 +1,25 @@
+{
+	"label": "Urazy",
+	"entries": [
+		{
+			"id": "Amputated Part",
+			"name": "Amputacja"
+		},
+		{
+			"id": "Broken Bone (Major)",
+			"name": "Złamanie (Poważne)"
+		},
+		{
+			"id": "Broken Bone (Minor)",
+			"name": "Złamanie (Pomniejsze)"
+		},
+		{
+			"id": "Torn Muscle (Major)",
+			"name": "Zerwany mięsień (Poważne)"
+		},
+		{
+			"id": "Torn Muscle (Minor)",
+			"name": "Zerwany mięsień (Pomniejsze)"
+		}
+	]
+}

@@ -154,6 +154,10 @@
 			"name": "Występy (Śpiewanie)"
 		},
 		{
+			"id": "Entertain (Speeches)",
+			"name": "Występy (Przemowy)"
+		},
+		{
 			"id": "Entertain (Storytelling)",
 			"name": "Występy (Gawędziarstwo)"
 		},
